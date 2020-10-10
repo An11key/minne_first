@@ -1,0 +1,29 @@
+# 1lox
+
++ [Lox 1](#lox-1)
++ [Lox 2](#lox-2)
++ [Lox 3](#lox-3)
+
+## lox 1
+
+dsfsdfsd.com
+
+```python
+werwe werwe werwe werwe
+```
+
+## lox 2
+
+dsfsdfsd2.com
+
+```python
+werwe werwe werwe w2erwe
+```
+
+## lox 3
+
+dsfsdfsd3.com
+
+```python
+werwe werwe werwe w3erwe
+```

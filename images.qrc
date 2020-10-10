@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>github-markw0x.png</file>
+    <file>button_click.png</file>
+    <file>button.png</file>
+    <file>github-mark.png</file>
+    <file>github-mark0x.png</file>
+  </qresource>
+</RCC>
